@@ -20,8 +20,10 @@
 
 ## wechat
 
-![image](https://raw.githubusercontent.com/zeusro/zeusro/master/mmqrcode1597440561304.png)
+![image](mmqrcode1597440561304.png)
+
+<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="80%" height="80%" />
 
 ## 微信公众号
 
-![image](https://media-exp1.licdn.com/dms/image/C562DAQEH36rwQ1Zk7A/profile-treasury-image-shrink_1920_1920/0?e=1597528800&v=beta&t=LllPZjwqnXr6u9OzSXPLzI7ztG0niC5PQUucAebGzbk)
+![image](0.jpeg)
