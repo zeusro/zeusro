@@ -20,10 +20,8 @@
 
 ## wechat
 
-![image](mmqrcode1597440561304.png)
-
-<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="80%" height="80%" />
+<img src="https://raw.githubusercontent.com/zeusro/zeusro/master/mmqrcode1597440561304.png" width="80%" height="80%" />
 
 ## 微信公众号
 
-![image](0.jpeg)
+<img src="https://raw.githubusercontent.com/zeusro/zeusro/master/0.jpeg" width="80%" height="80%" />
