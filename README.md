@@ -16,6 +16,10 @@
 1. 教育学家
 1. 当代禅宗
 
+## 知乎
+
+[Zeusro - 知乎](https://www.zhihu.com/people/ludd-cooper)
+
 ## wechat
 
 <img src="https://raw.githubusercontent.com/zeusro/zeusro/master/mmqrcode1597440561304.png" width="50%" height="50%" />
@@ -23,3 +27,4 @@
 ## 微信公众号
 
 <img src="https://raw.githubusercontent.com/zeusro/zeusro/master/0.jpeg" width="80%" height="80%" />
+
