@@ -1,6 +1,6 @@
 ## title
 
-符号学家（语言学，逻辑学，文学，程序语言）
+When I think of destiny,I don't think of predetermined fate you can't escape,but rather,some sort of final goal,something you worked toward your entire life
 
 ## wechat
 
