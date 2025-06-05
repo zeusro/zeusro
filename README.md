@@ -1,4 +1,6 @@
-To retire early.
+
+Have no salary in China.
+I’m leaving.
 
 ## done
 
@@ -10,5 +12,3 @@ To retire early.
 
 1. [math](https://github.com/zeusro/math)
 
-I have no salary in China.
-I’m leaving.
