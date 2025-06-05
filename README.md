@@ -1,4 +1,4 @@
-I just want to retire early.
+To retire early.
 
 ## done
 
@@ -10,4 +10,5 @@ I just want to retire early.
 
 1. [math](https://github.com/zeusro/math)
 
-I have no salary in China, so I’m leaving.
+I have no salary in China.
+I’m leaving.
