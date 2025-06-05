@@ -1,4 +1,4 @@
-IQ250+ Guangdong NO.10 posthuman/hacker.
+I just want to retire early.
 
 ## done
 
