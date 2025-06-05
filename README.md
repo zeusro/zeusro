@@ -10,8 +10,8 @@ I’m leaving.
 ## doing
 
 1. [math](https://github.com/zeusro/math)
+2. [data](https://github.com/zeusro/data)
 
 <div align="right">
   <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1ODEyNDg3MA==&action=getalbum&album_id=1501795090070077441#wechat_redirect">Code.13 Rebellious Zeusro</a>
 </div>
-l
