@@ -1,4 +1,4 @@
-0 in China.
+China = 0 .
 I’m leaving.
 
 ## done
