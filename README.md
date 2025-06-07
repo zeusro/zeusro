@@ -1,13 +1,12 @@
-China = 0 .
-I’m leaving.
+I have solved the database deadlock problem for ever.
 
-## done
+## Done
 
 1. [www](problems/1-www.md)
 1. [philosophy](https://github.com/zeusro/God-Theory)
 1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
 
-## doing
+## Doing
 
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
