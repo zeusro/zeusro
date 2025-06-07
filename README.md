@@ -5,6 +5,7 @@ I have solved the database deadlock problem for ever.
 1. [www](problems/1-www.md)
 1. [philosophy](https://github.com/zeusro/God-Theory)
 1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
+2. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
 
 ## Doing
 
