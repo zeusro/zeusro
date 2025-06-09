@@ -4,8 +4,9 @@ Mythological story is identical
 
 1. [www](problems/1-www.md)
 1. [philosophy](https://github.com/zeusro/God-Theory)
+2. [Go back to China](https://github.com/zeusro/zeusro/blob/master/problems/Go-back-to-China.md)
 1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
-2. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
+3. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
 
 ## Doing
 
