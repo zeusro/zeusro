@@ -1,3 +1,5 @@
+2005.05.02 In KL International Airport
+
 # Go back to China?
-To all Malaysian people
-My answer:Together! --KL International Airport
+
+To all Malaysian people:Together! 
