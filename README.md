@@ -1,4 +1,4 @@
-I have solved the database deadlock problem for ever.
+Mythological story is identical
 
 ## Done
 
@@ -10,6 +10,7 @@ I have solved the database deadlock problem for ever.
 ## Doing
 
 3. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
+3. [God Theory](https://github.com/zeusro/God-Theory)
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
 
