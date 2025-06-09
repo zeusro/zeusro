@@ -17,8 +17,6 @@ Mythological story is identical
 
 ## Wechat donate
 
-Wechat:
-
 <img src="pay.png" width="30%" height="30%"/>
 
 
