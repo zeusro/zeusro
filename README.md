@@ -11,6 +11,7 @@ I have solved the database deadlock problem for ever.
 
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
+3. fix bugs in 3
 
 ## No money no talking
 
