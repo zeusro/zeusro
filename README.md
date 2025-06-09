@@ -15,7 +15,7 @@ Mythological story is identical
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
 
-## No money no talking
+## Wechat donate
 
 Wechat:
 
