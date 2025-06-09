@@ -9,9 +9,9 @@ I have solved the database deadlock problem for ever.
 
 ## Doing
 
+3. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
-3. fix bugs in 3
 
 ## No money no talking
 
