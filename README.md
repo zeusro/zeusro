@@ -1,27 +1,24 @@
 Do my best to solve problems when I have enough resources.
 
-I have solved the database deadlock problem for ever.
-
 ## Done
 
 1. [Excalibur](problems/Excalibur.md)
 1. [www](problems/www.md)
 1. [philosophy](https://github.com/zeusro/God-Theory)
+2. [Go back to China](https://github.com/zeusro/zeusro/blob/master/problems/Go-back-to-China.md)
 1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
-2. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
+3. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
 
 ## Doing
 
+3. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
+3. [God Theory](https://github.com/zeusro/God-Theory)
 1. [math](https://github.com/zeusro/math)
 2. [data](https://github.com/zeusro/data)
 
-## No money no talking
-
-Wechat:
+## Wechat donate
 
 <img src="pay.png" width="30%" height="30%"/>
-
-
 
 
 <div align="right">
