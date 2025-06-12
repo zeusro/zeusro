@@ -1,8 +1,11 @@
+Do my best to solve problems when I have enough resources.
+
 I have solved the database deadlock problem for ever.
 
 ## Done
 
-1. [www](problems/1-www.md)
+1. [Excalibur](problems/Excalibur.md)
+1. [www](problems/www.md)
 1. [philosophy](https://github.com/zeusro/God-Theory)
 1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
 2. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
@@ -17,6 +20,8 @@ I have solved the database deadlock problem for ever.
 Wechat:
 
 <img src="pay.png" width="30%" height="30%"/>
+
+
 
 
 <div align="right">
