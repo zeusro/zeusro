@@ -1,13 +1,13 @@
-Do my best to solve problems when I have enough resources.
+Do my best to solve problems when I have enough money.
 
 ## Done
 
-1. [Excalibur](problems/Excalibur.md)
-1. [www](problems/www.md)
-1. [philosophy](https://github.com/zeusro/God-Theory)
-2. [Go back to China](https://github.com/zeusro/zeusro/blob/master/problems/Go-back-to-China.md)
-1. [P=NP](https://github.com/zeusro/math/blob/main/it/P%3DNP.md)
-3. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
+1. [Excalibur](problems/2020-10-26-Excalibur.md)
+1. [www](problems/2020-www.md)
+1. [Godot](problems/2021-03-21-Godot.md)
+1. [Go back to China](problems/2025-05-02-Go-back-to-China?.md)
+1. [P=NP](https://github.com/zeusro/math/blob/main/it/it/P%3DNP.md)
+1. [Database Deadlock](https://github.com/zeusro/math/blob/main/it/Deadlock.md)
 
 ## Doing
 
