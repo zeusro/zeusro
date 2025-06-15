@@ -1,4 +1,4 @@
-Do my best to solve problems when I have enough money.
+Do my best to solve problems when I have enough resource.
 
 ## Done
 
@@ -7,6 +7,7 @@ Do my best to solve problems when I have enough money.
 1. [Godot](problems/2021-03-21-Godot.md)
 1. [Go back to China?](problems/2025-05-02-Go-back-to-China?.md)
 1. [Kritik der reinen Sinnlichkeit](problems/2025-05-21-Sinnlichkeit.md)
+2. [P=NP](https://medium.com/@zeusro/p-np-45d6766dd2e6)
 
 ## Doing
 
