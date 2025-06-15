@@ -2,19 +2,22 @@ Do my best to solve problems once I have enough resources.
 
 ## Done
 
+1. [God Theory](https://github.com/zeusro/God-Theory)
 1. [Excalibur](problems/2020-10-26-Excalibur.md)
 1. [www](problems/2020-www.md)
 1. [Godot](problems/2021-03-21-Godot.md)
 1. [Go back to China?](problems/2025-05-02-Go-back-to-China?.md)
 1. [Kritik der reinen Sinnlichkeit](problems/2025-05-21-Sinnlichkeit.md)
-2. [P=NP](https://medium.com/@zeusro/p-np-45d6766dd2e6)
+1. [P=NP](https://medium.com/@zeusro/p-np-45d6766dd2e6)
 
 ## Doing
 
-3. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
-3. [God Theory](https://github.com/zeusro/God-Theory)
+1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
 1. [math](https://github.com/zeusro/math)
-2. [data](https://github.com/zeusro/data)
+
+## TODO
+
+3. [data](https://github.com/zeusro/data)
 
 ## Wechat donate
 
