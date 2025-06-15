@@ -1,4 +1,4 @@
-Do my best to solve problems when I have enough resource.
+Do my best to solve problems once I have enough resources.
 
 ## Done
 
