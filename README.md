@@ -17,7 +17,7 @@ Do my best to solve problems once I have enough resources.
 
 ## TODO
 
-3. [data](https://github.com/zeusro/data)
+3. [data](https://github.com/zeusro/data) Lost in KL
 
 ## Wechat donate
 
