@@ -1,4 +1,4 @@
-Do my best to solve problems once I have enough resources.
+Do my best to solve problems once I have money.
 
 ## Done
 
