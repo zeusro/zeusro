@@ -8,7 +8,7 @@ Do my best to solve problems once I have enough resources.
 1. [Godot](problems/2021-03-21-Godot.md)
 1. [Go back to China?](problems/2025-05-02-Go-back-to-China?.md)
 1. [Kritik der reinen Sinnlichkeit](problems/2025-05-21-Sinnlichkeit.md)
-1. [P=NP](https://www.bullshitprogram.com/p-np/)
+1. [P=NP](https://www.bullshitprogram.com/p-np/) [TSP](https://www.zeusro.com/2025/06/17/TSP/)
 
 ## Doing
 
@@ -22,7 +22,6 @@ Do my best to solve problems once I have enough resources.
 ## Wechat donate
 
 <img src="pay.png" width="30%" height="30%"/>
-
 
 <div align="right">
   <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1ODEyNDg3MA==&action=getalbum&album_id=1501795090070077441#wechat_redirect">Code.13 Rebellious Zeusro</a>
