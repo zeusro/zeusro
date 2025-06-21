@@ -8,7 +8,7 @@ Do my best to solve problems once I have money.
 1. [Godot](problems/2021-03-21-Godot.md)
 1. [Go back to China?](problems/2025-05-02-Go-back-to-China?.md)
 1. [Kritik der reinen Sinnlichkeit](problems/2025-05-21-Sinnlichkeit.md)
-1. [P=NP](https://www.bullshitprogram.com/p-np/) [TSP](https://www.zeusro.com/2025/06/17/TSP/)
+1. [P=NP](https://www.bullshitprogram.com/p-np/)
 2. [Gödel’s Incompleteness Theorems](https://github.com/zeusro/math/blob/main/game/readme.md)
 
 ## Doing
