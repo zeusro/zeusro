@@ -11,16 +11,17 @@ Do my best to solve problems once I have money.
 1. [P=NP](https://www.bullshitprogram.com/p-np/)
 1. [Gödel’s Incompleteness Theorems](https://github.com/zeusro/math/blob/main/game/readme.md#3)
 1. [Prisoner’s Dilemma](https://github.com/zeusro/math/blob/main/game/readme.md#4)
-1. [Μέγας Διάκοσμος](problems/Democritus.md)
 
 ## Doing
 
 1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
 1. [math](https://github.com/zeusro/math)
+1. [Μέγας Διάκοσμος](problems/Democritus.md)
 
 ## TODO
 
-3. [data](https://github.com/zeusro/data)
+1. [data](https://github.com/zeusro/data)
+
 
 ## Wechat donate
 
