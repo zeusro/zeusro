@@ -1,5 +1,5 @@
 
-## Great World-System
+## 20%:Great World-System
 
 <Μέγας Διάκοσμος> = [n](https://github.com/zeusro/math/blob/main/n/n.md)
 
