@@ -12,13 +12,13 @@ Do my best to solve problems once I have money.
 1. [Gödel’s Incompleteness Theorems](https://github.com/zeusro/math/blob/main/game/readme.md#3)
 1. [Prisoner’s Dilemma](https://github.com/zeusro/math/blob/main/game/readme.md#4)
 1. [θεός](https://github.com/zeusro/math/blob/main/game/readme.md)
-2. [The Importance of Fixed Points in N](https://github.com/zeusro/math/blob/main/game/readme.md#-the-importance-of-fixed-points)
+1. [The Importance of Fixed Points in N](https://github.com/zeusro/math/blob/main/game/readme.md#-the-importance-of-fixed-points)
+1. 【read-only】[math](https://github.com/zeusro/math)
 
 ## Doing
 
 1. https://github.com/p-program/Fenrir
 1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
-1. [math](https://github.com/zeusro/math)
 1. [Μέγας Διάκοσμος](problems/Democritus.md)
 
 
