@@ -9,18 +9,25 @@ Do my best to solve problems once I have money.
 1. [Go back to China?](problems/2025-05-02-Go-back-to-China?.md)
 1. [Kritik der reinen Sinnlichkeit](problems/2025-05-21-Sinnlichkeit.md)
 1. [P=NP](https://www.bullshitprogram.com/p-np/)
-2. [Gödel’s Incompleteness Theorems](https://github.com/zeusro/math/blob/main/game/readme.md#3)
+1. [Gödel’s Incompleteness Theorems](https://github.com/zeusro/math/blob/main/game/readme.md#3)
 1. [Prisoner’s Dilemma](https://github.com/zeusro/math/blob/main/game/readme.md#4)
+1. [θεός](https://github.com/zeusro/math/blob/main/game/readme.md)
+1. [The Importance of Fixed Points in N](https://github.com/zeusro/math/blob/main/game/readme.md#-the-importance-of-fixed-points)
+1. 💢 [math](https://github.com/zeusro/math)
 1. [הארץ המובטחת](problems/הארץ%20המובטחת.md)
 
 ## Doing
 
+1. https://github.com/p-program/Fenrir
+2. 20%[Macrocosm](https://github.com/zeusro/zeusro/blob/master/problems/Democritus.md)
 1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
-1. [math](https://github.com/zeusro/math)
+1. [Μέγας Διάκοσμος](problems/Democritus.md)
+
 
 ## TODO
 
-3. [data](https://github.com/zeusro/data)
+1. [data](https://github.com/zeusro/data)
+
 
 ## Wechat donate
 
