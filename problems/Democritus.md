@@ -20,5 +20,5 @@ Zeusro:Can’t sleep at night because you saw a ghost?
 Democritus:πολλοὶ πολλὰ μαθόντες οὐ νοῦν ἔχουσιν.
 Zeusro:Gay？
 Democritus:GO BACK TO CHINA！
-Zeusro:Welcome to [Shantou City](https://hk.trip.com/travel-guide/destination/shantou-215/)
 ```
+Zeusro:Welcome to [Shantou City](https://hk.trip.com/travel-guide/destination/shantou-215/)
