@@ -21,4 +21,4 @@ Democritus:πολλοὶ πολλὰ μαθόντες οὐ νοῦν ἔχου�
 Zeusro:Gay？
 Democritus:GO BACK TO CHINA！
 ```
-Zeusro:Welcome to [Shantou City](https://hk.trip.com/travel-guide/destination/shantou-215/)
+Zeusro:Welcome to [Shantou City](https://hk.trip.com/travel-guide/destination/shantou-215/).
