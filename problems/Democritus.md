@@ -16,7 +16,7 @@ Zeusro:Cataract?
 Democritus:......
 Zeusro:Retinal Detachment?
 Democritus:ἀνδρῶν ἰδιωτῶν λόγοι μακροὶ καὶ μάταιοι.
-Zeusro:Can’t sleep at night because you saw a ghost?
+Zeusro:Saw a ghost at night?
 Democritus:πολλοὶ πολλὰ μαθόντες οὐ νοῦν ἔχουσιν.
 Zeusro:Gay？
 Democritus:GO BACK TO CHINA！
