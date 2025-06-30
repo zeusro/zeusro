@@ -14,7 +14,7 @@ Do my best to solve problems once I have money.
 1. [θεός](https://github.com/zeusro/math/blob/main/game/readme.md)
 1. [The Importance of Fixed Points in N](https://github.com/zeusro/math/blob/main/game/readme.md#-the-importance-of-fixed-points)
 1. 💢 [math](https://github.com/zeusro/math)
-1. [13](problems/13.md)
+1. [13 is God’s joke](problems/13.md)
 1. [הארץ המובטחת](problems/הארץ%20המובטחת.md)
 
 ## Doing
