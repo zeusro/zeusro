@@ -16,7 +16,7 @@ Do my best to solve problems once I have money.
 1. 💢 [math](https://github.com/zeusro/math)
 1. [is God’s joke](problems/13.md)
 1. [הארץ המובטחת](problems/הארץ%20המובטחת.md)
-1. [Jeanne d'Arc](problems/Jeanne d'Arc.md)
+1. [Jeanne d'Arc](problems/Jeanne%20d'Arc.md)
 
 ## Doing
 
