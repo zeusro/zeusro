@@ -1,5 +1,8 @@
 Do my best to solve problems once I have money.
 
+<img src="pay.png" width="30%" height="30%"/>
+
+
 ## Done
 
 1. [God Theory](https://github.com/zeusro/God-Theory)
@@ -29,13 +32,6 @@ Do my best to solve problems once I have money.
 ## TODO
 
 1. [data](https://github.com/zeusro/data)
-
-
-## Wechat donate
-
-<img src="pay.png" width="50%" height="50%"/>
-
-<img src="pay.png" width="30%" height="30%"/>
 
 <div align="right">
   <a href="https://github.com/zeusro/C13">Code.13 Romantic Zeusro</a>
