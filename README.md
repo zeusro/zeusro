@@ -15,7 +15,7 @@ Do my best to solve problems once I have money.
 
 ## Wechat donate
 
-<img src="pay.png" width="30%" height="30%"/>
+![image](pay.png)
 
 <div align="right">
   <a href="https://github.com/zeusro/C13">Code.13 Romantic Zeusro</a>
