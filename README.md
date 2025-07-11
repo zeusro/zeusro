@@ -33,7 +33,7 @@ Do my best to solve problems once I have money.
 
 ## Wechat donate
 
-![image](pay.png)
+<img src="pay.png" width="50%" height="50%"/>
 
 <img src="pay.png" width="30%" height="30%"/>
 
