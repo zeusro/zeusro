@@ -15,3 +15,4 @@
 1. [is God’s joke](problems/13.md)
 1. [הארץ המובטחת](problems/הארץ%20המובטחת.md)
 1. [Jeanne d'Arc](problems/Jeanne%20d'Arc.md)
+1. [Sword of Damocles](problems/Sword-of-Damocles.md)
