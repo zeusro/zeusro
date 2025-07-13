@@ -3,3 +3,5 @@
 Pika bit the cable.
 
 皮神咬断了钢索。
+
+![image](pika.jpeg)
