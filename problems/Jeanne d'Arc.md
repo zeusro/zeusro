@@ -8,4 +8,4 @@ Blood would defile her holiness, so she has no gun
 
 # 圣女贞德
 
-血会玷污她的神圣，所以她没枪杀过人
+血会玷污她的神圣
