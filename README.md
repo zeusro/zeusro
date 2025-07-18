@@ -4,6 +4,7 @@ Do my best to solve problems once I have money.
 
 ## Doing
 
+1. [Electric Chicken](doing/ec.md)
 1. https://github.com/p-program/Fenrir
 2. 20%[Macrocosm](https://github.com/zeusro/zeusro/blob/master/problems/Democritus.md)
 1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
