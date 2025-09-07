@@ -1,4 +1,4 @@
-Do my best to solve problems once I have money.
+[No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM&ab_channel=SebastianJohn)
 
 ## [Done](done.md)
 
