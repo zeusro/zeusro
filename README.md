@@ -4,10 +4,11 @@ Do my best to solve problems once I have money.
 
 ## Doing
 
-1. [Electric Chicken](doing/ec.md)
+1. https://github.com/zeusro/plan_b
 1. https://github.com/p-program/Fenrir
 1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
 1. [Μέγας Διάκοσμος](problems/Democritus.md)
+1. [Electric Chicken](doing/ec.md)
 
 ## TODO
 
