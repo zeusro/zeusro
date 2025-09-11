@@ -2,7 +2,7 @@
 
 1. More than 5 years of experience in Devops
 3. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
-5. Barrier-free 10+ languages instant switching communication
+5. Barrier-free 10+ languages instant switching
 7. INTP-type personality, pursuing the simplification of complex problems
 8. ~~NEVER~~ avoid problems
 
