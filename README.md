@@ -14,7 +14,7 @@
 1. Writing bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
     1. [Electric Chicken](doing/ec.md)
 
-## [No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM)
+## [No Wechat Donate No Talk](https://chatbot.weixin.qq.com)
 
 ![image](pay.png)
 
