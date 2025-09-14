@@ -7,7 +7,7 @@
 1. Pursuing the simplification of complex problems
 8. ~~NEVER~~ avoid problems
 
-## Doing
+## Making
 
 1. [money](https://github.com/p-program/money)
 1. https://github.com/p-program/Fenrir
