@@ -1,3 +1,5 @@
+## [MVP](https://www.youtube.com/watch?v=r5YvBvX1qRc)
+
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
 1. More than 5 years of experience in Devops
 3. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
