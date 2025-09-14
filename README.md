@@ -1,5 +1,3 @@
-## [No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM)
-
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
 1. More than 5 years of experience in Devops
 3. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
@@ -14,7 +12,7 @@
 1. Writing bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
     1. [Electric Chicken](doing/ec.md)
 
-## [Wechat Chatting](https://chatbot.weixin.qq.com/)
+## [No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM)
 
 ![image](pay.png)
 
