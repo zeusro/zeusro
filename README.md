@@ -1,4 +1,4 @@
-## [No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM&ab_channel=SebastianJohn)
+## [No Money No Talk](https://www.youtube.com/watch?v=8nR_B6TqRMM)
 
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
 1. More than 5 years of experience in Devops
@@ -7,14 +7,14 @@
 1. Pursuing the simplification of complex problems
 8. ~~NEVER~~ avoid problems
 
-## Making
+## [Trying](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 
 1. [money](https://github.com/p-program/money)
 1. [Fenrir](https://github.com/p-program/Fenrir)
 1. bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
     1. [Electric Chicken](doing/ec.md)
 
-## Wechat donate
+## [Wechat Chatting](https://chatbot.weixin.qq.com/)
 
 ![image](pay.png)
 
