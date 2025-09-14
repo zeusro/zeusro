@@ -10,8 +10,8 @@
 ## Making
 
 1. [money](https://github.com/p-program/money)
-1. https://github.com/p-program/Fenrir
-1. fix bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
+1. [Fenrir](https://github.com/p-program/Fenrir)
+1. bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
     1. [Electric Chicken](doing/ec.md)
 
 ## Wechat donate
