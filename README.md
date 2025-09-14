@@ -7,11 +7,11 @@
 1. Pursuing the simplification of complex problems
 8. ~~NEVER~~ avoid problems
 
-## [Trying](https://www.youtube.com/watch?v=c6rP-YP4c5I)
+## [Trying Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 
-1. [money](https://github.com/p-program/money)
-1. [Fenrir](https://github.com/p-program/Fenrir)
-1. bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
+1. Making [money](https://github.com/p-program/money)
+1. Raising [Fenrir](https://github.com/p-program/Fenrir)
+1. Writing bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
     1. [Electric Chicken](doing/ec.md)
 
 ## [Wechat Chatting](https://chatbot.weixin.qq.com/)
