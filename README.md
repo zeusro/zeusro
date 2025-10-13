@@ -1,4 +1,4 @@
-## [NPD killer](https://www.youtube.com/watch?v=r5YvBvX1qRc)
+## [NPD killer](https://www.youtube.com/watch?v=EtGhFQ88mjc)
 
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
 1. More than 5 years of experience in Devops
