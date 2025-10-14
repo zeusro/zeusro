@@ -1,8 +1,7 @@
+# Kritik der reinen Sinnlichkeit
 
     “Reason is, and ought only to be the slave of the passions, 
     and can never pretend to any other office than to serve and obey them.”
-
-# Kritik der reinen Sinnlichkeit
 
 Die Vernunft ist immer der Sklave der Emotionen.
 Materialismus und Idealismus sind lediglich persönliche Gefühle und entsprechen nicht objektiven Tatsachen.
