@@ -17,5 +17,5 @@
 <img src="pay.png" alt="pika" width="30%" />
 
 <div align="right">
-  <a href="https://github.com/zeusro/C13">Code.13 Romantic Zeusro</a>
+  <a href="[https://github.com/zeusro/C13](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1ODEyNDg3MA==&action=getalbum&album_id=1501795090070077441#wechat_redirect)">Code.13 Romantic Zeusro</a>
 </div>
