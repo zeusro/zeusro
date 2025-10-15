@@ -14,7 +14,7 @@
 
 ## [No Wechat Donate No Talk](https://chatbot.weixin.qq.com)
 
-![image](pay.png)
+<img src="pay.png" alt="pika" width="30%" />
 
 <div align="right">
   <a href="https://github.com/zeusro/C13">Code.13 Romantic Zeusro</a>
