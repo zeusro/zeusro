@@ -4,7 +4,7 @@ ifeq ($(OS),Windows_NT)
   DATE_CMD = powershell -NoProfile -Command "Get-Date -Format 'yyyy-MM-dd_HH-mm-ss'"
 else
   # 假定是 Unix / Linux / macOS 等
-  DATE_CMD = date +'%Y-%m-%d_%H-%M-%S'
+  DATE_CMD = date -u +"%Y-%m-%dT%H:%M:%SZ"
 endif
 
 now := $(shell $(DATE_CMD))
