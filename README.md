@@ -2,16 +2,15 @@
 
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
 1. More than 5 years of experience in Devops
-3. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
-5. Barrier-free [10+ languages](https://mp.weixin.qq.com/s/8iQWpQiDjFauXrvC9KiANw) instant switching
+1. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
+1. Barrier-free [10+ languages](https://mp.weixin.qq.com/s/8iQWpQiDjFauXrvC9KiANw) instant switching
 1. Pursuing the simplification of complex problems
-8. ~~NEVER~~ avoid problems
+1. ~~NEVER~~ avoid problems
 
 ## [Trying Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 
 1. Raising [Fenrir](https://github.com/p-program/Fenrir)
 1. Writing bugs in [3](https://github.com/zeusro/math/blob/main/n/3.md)
-    1. [Electric Chicken](doing/ec.md)
 
 ## [No Wechat Donate No Talk](https://chatbot.weixin.qq.com)
 
