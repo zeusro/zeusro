@@ -1,9 +1,9 @@
 ## [NPD killer](https://www.youtube.com/watch?v=EtGhFQ88mjc)
 
 1. An INTP personality [牛B](https://github.com/zeusro/quantum) than Einstein
-1. More than 5 years of experience in Devops
-1. Deep understanding of [distributed systems](https://www.bullshitprogram.com/distributed-husband-system/)
-1. Barrier-free [10+ languages](https://mp.weixin.qq.com/s/8iQWpQiDjFauXrvC9KiANw) instant switching
+1. More than 5 years of experience in [Devops](https://www.zeusro.com/archive/?tag=DevOps)
+1. Deep understanding of [distributed systems](https://www.bullshitprogram.com/one-open-operating-system/)
+1. Barrier-free instant switching across [10+ languages](https://mp.weixin.qq.com/s/8iQWpQiDjFauXrvC9KiANw).
 1. Pursuing the simplification of complex problems
 1. ~~NEVER~~ avoid problems
 
