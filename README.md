@@ -1,4 +1,4 @@
-## [NPD killer](https://www.youtube.com/watch?v=EtGhFQ88mjc)
+## [Running](https://www.youtube.com/watch?v=TZxYJsjU3hE)
 
 1. ~~NEVER~~ [avoid problems](https://x.com/M2_49/status/1982277477436109157)
 1. An INTP is even more [牛B](https://github.com/zeusro/quantum) than Einstein
