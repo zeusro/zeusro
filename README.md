@@ -9,7 +9,6 @@
 
 ## [Open to Trying Everything](https://www.youtube.com/watch?v=c6rP-YP4c5I)
 
-1. Raising [Fenrir](https://github.com/p-program/Fenrir)
 1. Writing [bugs](https://www.bullshitprogram.com/cloud-native-development-best-practices/) in [3](https://github.com/zeusro/math/blob/main/n/3.md)
 
 ## [No Wechat Donate No Talk](https://chatbot.weixin.qq.com)
