@@ -18,4 +18,4 @@
 1. [Sword of Damocles](problems/Sword-of-Damocles.md)
 1. [SUN-YAT-SEN](problems/SUN-YAT-SEN.md)
 1. [The Catcher in the Rye](problems/The-Catcher-in-the-Rye.md)
-1 . [AI](problems/ai.md)
+1. [AI](problems/ai.md)
